@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 transformers = "*"
+torch = "*"
+seaborn = "*"
+numpy = "*"
+pandas = "*"
 
 [dev-packages]
 
